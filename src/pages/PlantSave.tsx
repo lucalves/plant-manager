@@ -21,7 +21,7 @@ import { Button } from '../components/Button';
 import colors from '../styles/colors';
 import fonts from '../styles/fonts';
 import { format, isBefore } from 'date-fns';
-import { PlantProps, loadPlant, savePlant } from '../libs/storage';
+import { PlantProps, savePlant } from '../libs/storage';
 
 interface Params {
   plant: PlantProps
@@ -75,6 +75,10 @@ export function PlantSave() {
   }
 
   return (
+    <ScrollView
+      showsVerticalScrollIndicator={false}
+      contentContainerStyle={styles.container}
+    >
     <View style={styles.container}>
       <View style={styles.plantInfo}>
         <SvgFromUri
@@ -134,6 +138,7 @@ export function PlantSave() {
         />
       </View>
     </View>
+   </ScrollView>
   )
 }
 
