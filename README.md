@@ -6,6 +6,10 @@
 
 ## Screenshots
 
+<h1 align="center">
+  <img alt="Mobile Mockups" title="Mobile Mockupsr" src=".github/mobile-mockups.png" />
+</h1>
+
 ## Technologies used
 
 - [React Native](https://reactnative.dev/)
