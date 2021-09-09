@@ -10,7 +10,7 @@
   <img alt="Mobile Mockups" title="Mobile Mockupsr" src=".github/mobile-mockups.png" />
 </h1>
 
-## Technologies used
+## Technologies
 
 - [React Native](https://reactnative.dev/)
 - [Typescript](https://www.typescriptlang.org/)
