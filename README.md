@@ -37,6 +37,5 @@ $ expo start
 # Start the fake api to simulate requests (replace <iphere> with your ip local address)
 $ json-server ./src/services server.json --host <iphere> --port 3333 --delay 700
 
-
 # Ready!
 ```
