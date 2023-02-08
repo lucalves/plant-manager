@@ -39,3 +39,7 @@ $ json-server ./src/services server.json --host <iphere> --port 3333 --delay 700
 
 # Ready!
 ```
+
+## License
+
+MIT
