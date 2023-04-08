@@ -28,8 +28,8 @@ $ cd plant-manager
 # Open the repository in the IDE (If you use VS Code)
 $ code .
 
-# Install dependencies with npm or yarn
-$ yarn or npm install
+# Install dependencies with npm
+$ npm install
 
 # Start the application
 $ expo start
