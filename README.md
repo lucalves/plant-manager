@@ -1,12 +1,12 @@
-<h1 align="center">
+<h1>
   <img alt="Plant Manager" title="Plant Manager" src=".github/logo.png" />
 </h1>
 
-<p align="center">An app developed for the user to be able to register plants and be reminded of when to water them.<br/>You can see the project layout <a href="https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate">here</a>. Developed during the <a href="http://www.rocketseat.com.br/">Rocketseat</a> NLW #5.</p>
+<p>An app developed for the user to be able to register plants and be reminded of when to water them.<br/>You can see the project layout <a href="https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate">here</a>. Developed during the <a href="http://www.rocketseat.com.br/">Rocketseat</a> NLW #5.</p>
 
 ## Screenshots 📷
 
-<h1 align="center">
+<h1>
   <img alt="Mobile Mockups" title="Mobile Mockupsr" src=".github/mobile-mockups.png" />
 </h1>
 
